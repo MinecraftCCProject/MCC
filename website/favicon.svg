@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">MCC</title>
+  <rect width="64" height="64" rx="12" fill="#07110d"/>
+  <rect x="5" y="5" width="54" height="54" rx="8" fill="none" stroke="#5df58d" stroke-width="2"/>
+  <path d="M16 45V19h7l9 12 9-12h7v26h-7V29L32 41 23 29v16z" fill="#93ffb4"/>
+  <path d="M48 50h8v6h-8z" fill="#5df58d" opacity=".65"/>
+</svg>

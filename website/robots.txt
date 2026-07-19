@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /MCC/
+
+Sitemap: https://minecraftccproject.github.io/MCC/sitemap.xml
